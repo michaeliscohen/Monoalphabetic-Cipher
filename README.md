@@ -1,2 +1,6 @@
-# Monoalphabetic-Cipher
-This program executes a monoalphabetic cipher in Python. Encryption and Decryption operations are supported. Created by Michael L Cohen, Binghamton University.
+Michael Cohen
+mcohen76@binghamton.edu
+python3
+
+Tested on CS remote machines
+python3 mono.py input output seed flag
