@@ -17,7 +17,7 @@ Here're some of the project's best features:
 <p>1. Clone this GitHub repo</p>
 
 ```
-https://github.com/michaeliscohen/Monoalphabetic-Cipher.git
+git clone https://github.com/michaeliscohen/Monoalphabetic-Cipher.git
 ```
 
 <p>2. Create an input file</p>
